@@ -1,0 +1,58 @@
+ 
+ *{ margin: 0px; padding: 0px;  }
+ 
+ body {
+    background-color: rgb(74, 74, 235);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: rgb(36, 34, 170);
+    min-height: 3cm;
+    position:fixed;
+    width: 100%;
+}
+h1 {
+    font-size: 1.5cm;
+}
+ .paragrafo{
+    display: inline;
+    float: inline-end;
+    vertical-align: top;
+    margin-left: 30px;
+ }
+
+#banner{
+    padding: 100px; 
+    background-color: rgb(48, 48, 100);
+}
+nav{
+    background-color: rgb(48, 48, 100);
+    margin-top: 0px;
+    min-height: 2cm;
+}
+
+#pesquisa{
+    width: 98%;
+    background-color: rgb(149, 173, 219);
+    height: 1cm;
+    margin-top: 15px;
+    
+}
+article{
+    display: inline-block;
+    margin: 58px;
+}
+footer{
+    background-color: darkslateblue;
+}
+#foot1{
+    display: inline-block;
+    padding: 20px;
+    margin-left: 700px;
+}
+#foot2{
+    display: inline-block;
+    padding: 20px;
+}
+ 
